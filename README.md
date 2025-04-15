@@ -10,7 +10,6 @@ This README provides a clear and simple guide to understanding, setting up, and 
 
 - What is DSCPL?
 - Features
-- Screenshots
 - Prerequisites
 - Installation
 - Running the Application
@@ -74,18 +73,6 @@ Here’s what makes DSCPL special:
 
    - Navigate easily through tabs for Home, Programs, Chat, Videos, and more.
    - A sidebar shows upcoming reminders, progress, and settings.
-
----
-
-## 📸 Screenshots
-
-*Note: Screenshots are placeholders. Add actual images when available.*
-
-- **Home Page**: Welcomes you with program recommendations and today’s reminders.
-- **Program Creation**: Customize your spiritual program with ease.
-- **Chat Interface**: Talk to DSCPL for guidance and inspiration.
-- **Video Section**: Browse and save recommended videos.
-- **Progress Tracker**: Visualize your spiritual growth with charts.
 
 ---
 
